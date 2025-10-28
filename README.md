@@ -81,7 +81,9 @@ Foram usados **5 breakpoints** diferentes para ajustar o tamanho da tela automat
 
 ---
 
-## 👨‍💻 Autor
+## ✨ Autor
 
-**Anselmo Junior**
-Disciplina: Desenvolvimento Web – 2025
+Desenvolvido por **Anselmo junior e Luiz Felix da Silva Filho**
+Curso: *Análise e Desenvolvimento de Sistemas*
+Disciplina: *Desenvolvimento Web – Atividade 2*
+
